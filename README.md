@@ -43,12 +43,17 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📈 **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmenalmajdoubah
-&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmenalmajdoubah
-&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=yasmenalmajdoubah
+&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=yasmenalmajdoubah
+&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=yasmenalmajdoubah
+.yasmenalmajdoubah
+" alt="visitors">
+</div>
 <!--
 **yasmenalmajdoubah/yasmenalmajdoubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
