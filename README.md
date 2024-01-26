@@ -1,8 +1,12 @@
 ### Hi there 👋 :blush:
 ### About me :information_desk_person:
-🎓 I am Yasmin Almajdoubah, a Full Stack Web Developer, I also have a Bachelor's in Computer Engineering 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmen-almajdoubah/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmen-almajdoubah/)
+🎓 I am Yasmin Almajdoubah, a Full Stack Web Developer, I also have a Bachelor's in Computer Engineering 
+
+ I love programming, writing , playing football.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 <!--
 **yasmenalmajdoubah/yasmenalmajdoubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
