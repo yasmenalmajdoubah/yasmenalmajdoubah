@@ -8,6 +8,12 @@
  I love programming, writing , playing football.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: yasmen.almajdoubaj@gmail.com;
+
+
+</br>
+
 <!--
 **yasmenalmajdoubah/yasmenalmajdoubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
