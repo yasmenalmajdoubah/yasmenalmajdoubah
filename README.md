@@ -1,5 +1,5 @@
 ### Hi there 👋 :blush:
-### About me ::information_desk_person:
+### About me :information_desk_person:
 
 <!--
 **yasmenalmajdoubah/yasmenalmajdoubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
