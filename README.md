@@ -1,6 +1,7 @@
 ### Hi there 👋 :blush:
 ### About me :information_desk_person:
 🎓 I am Yasmin Almajdoubah, a Full Stack Web Developer, I also have a Bachelor's in Computer Engineering 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmen-almajdoubah/)
 
 <!--
 **yasmenalmajdoubah/yasmenalmajdoubah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
